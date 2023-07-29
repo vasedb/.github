@@ -11,7 +11,14 @@
 [![codecov](https://codecov.io/gh/auula/classdb/branch/main/graph/badge.svg?token=ekQ3KzyXtm)](https://codecov.io/gh/auula/classdb)
 [![DeepSource](https://deepsource.io/gh/auula/classdb.svg/?label=active+issues&token=rdl-7kKKCfR0F8b0dojJd50U)](https://deepsource.io/gh/auula/classdb/?ref=repository-badge)
 
+
 ---
+
+> The master branch of this repository has been removed, the latest version is under development and will be synchronized at a later date.
+
+---
+
+
 
 ### Features
 

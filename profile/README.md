@@ -1,7 +1,7 @@
 
 <p align="center">
     <img src="https://img.ibyte.me/0sd9vd.png" alt="vasedb" width="120" height="120" />
-    <h3 align="center">VaseDB is a NoSQL that supports multiple data types and transactions.</h3>
+    <p align="center">VaseDB is a NoSQL that supports multiple data types and transactions.</p>
 </p>
 
 

@@ -1,10 +1,10 @@
 
+<p align="center">
+    <img src="https://img.ibyte.me/0sd9vd.png" alt="vasedb" width="120" height="120" />
+    <h3 align="center">VaseDB is a NoSQL that supports multiple data types and transactions.</h3>
+</p>
 
-<img align="right" src="https://img.ibyte.me/0sd9vd.png" alt="vasedb" width="120" height="120" />
 
-# VaseDB
-
-VaseDB is a NoSQL that supports multiple data types and transactions.
 
 ---
 
@@ -15,15 +15,7 @@ VaseDB is a NoSQL that supports multiple data types and transactions.
 [![DeepSource](https://deepsource.io/gh/auula/vasedb.svg/?label=active+issues&token=rdl-7kKKCfR0F8b0dojJd50U)](https://deepsource.io/gh/auula/vasedb/?ref=repository-badge)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
 ---
-
----
-
-> The master branch of this repository has been removed, the latest version is under development and will be synchronized at a later date.
-
----
-
 
 
 ### Features

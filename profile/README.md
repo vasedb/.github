@@ -1,16 +1,22 @@
-<img align="center" src="https://img.ibyte.me/4i377v.png" alt="class-db" width="1000" height="230" />
 
-<p align="center">ClassDB is a NoSQL that supports multiple data types and transactions.<p>
+
+<img align="right" src="https://img.ibyte.me/0sd9vd.png" alt="vasedb" width="120" height="120" />
+
+# VaseDB
+
+VaseDB is a NoSQL that supports multiple data types and transactions.
 
 ---
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/auula/classdb)](https://goreportcard.com/report/github.com/auula/classdb)
-[![Release](https://img.shields.io/github/v/release/auula/classdb.svg?style=flat-square)](https://github.com/auula/classdb)
-[![License](https://img.shields.io/badge/license-Apache%202-blue)](github.com/auula/classdb/blob/master/LICENSE)
-[![Go Reference](https://pkg.go.dev/badge/github.com/auula/classdb.svg)](https://pkg.go.dev/github.com/auula/classdb)
-[![codecov](https://codecov.io/gh/auula/classdb/branch/main/graph/badge.svg?token=ekQ3KzyXtm)](https://codecov.io/gh/auula/classdb)
-[![DeepSource](https://deepsource.io/gh/auula/classdb.svg/?label=active+issues&token=rdl-7kKKCfR0F8b0dojJd50U)](https://deepsource.io/gh/auula/classdb/?ref=repository-badge)
+[![Go Report Card](https://goreportcard.com/badge/github.com/auula/vasedb)](https://goreportcard.com/report/github.com/auula/vasedb)
+[![Go Reference](https://pkg.go.dev/badge/github.com/auula/vasedb.svg)](https://pkg.go.dev/github.com/auula/vasedb)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/55bc449808ca4d0c80c0122f170d7313)](https://app.codacy.com/gh/auula/vasedb/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![codecov](https://codecov.io/gh/auula/vasedb/graph/badge.svg?token=ekQ3KzyXtm)](https://codecov.io/gh/auula/vasedb)
+[![DeepSource](https://deepsource.io/gh/auula/vasedb.svg/?label=active+issues&token=rdl-7kKKCfR0F8b0dojJd50U)](https://deepsource.io/gh/auula/vasedb/?ref=repository-badge)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+
+---
 
 ---
 
